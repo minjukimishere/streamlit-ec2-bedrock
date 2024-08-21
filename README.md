@@ -1,4 +1,4 @@
-# streamlit-ecw-bedrock
+# streamlit-ec2-bedrock
 클라우드 경진대회 학습일지 
 
 # 공부과정 
