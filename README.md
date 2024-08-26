@@ -1,5 +1,5 @@
 # streamlit-ec2-bedrock
-클라우드 경진대회 학습일지 
+클라우드 경진대회 '학습일지 프로그램' 
 
 # 공부과정 
 1. Streamlit , Python, OpenAI, CSV 코드 빌드
